@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": " PG Diploma In Advanced Computing (C-DAC)",
+    "organisation": "Diploma In Advanced Computing",
+    "startDate": "Sept 2023 - ",
+    "endDate": "Feb 2024",
+    "location": "Mumbai, India",
+    "experiences": [
+      "First Class Destinction"
+    ],
+    "imageSrc": "company/C-dac logo.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Bachelor Of Enginerring(Mumbai University)",
+    "organisation": "Mumbai University",
+    "startDate": "Aug 2019 - ",
+    "endDate": "June 2022",
+    "location": "Mumbai, India",
+    "experiences": [
+      "First Class Destinction"
+    ],
+    "imageSrc": "company/BE logo.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Diploma In Mechanical Engineering",
+    "organisation": "Mumbai",
+    "startDate": "Apr, 2017",
+    "endDate": "Jun, 2019",
+    "location": "Ratnagiri, India",
+    "experiences": [
+     "First Class Destinction"
+    ],
+    "imageSrc": "company/Be NEw logo.png"
+  }
+]
